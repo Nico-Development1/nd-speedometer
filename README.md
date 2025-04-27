@@ -33,7 +33,8 @@ Add ensure `nd-speedometer` to your `server.cfg` to ensure the resource starts w
 
 None
 
-🛟 Support If you need support, head over to my Discord and open a general support ticket — a team member will assist you!
+## 🛟 Support:
+If you need support, head over to my Discord and open a general support ticket — a team member will assist you!
 
 https://discord.gg/9Yz2eBypWF
 
