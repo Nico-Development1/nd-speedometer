@@ -36,7 +36,7 @@ None
 ## 🛟 Support:
 If you need support, head over to my Discord and open a general support ticket — a team member will assist you!
 
-https://discord.gg/9Yz2eBypWF
+https://discord.gg/nSgwSHuYks
 
 ## 🎬 Preview:
 ![Screenshot 2025-04-27 004114](https://github.com/user-attachments/assets/1a890c5c-bf74-4da7-9bd4-5467e2166a4d)
